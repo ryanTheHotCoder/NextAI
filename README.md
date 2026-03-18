@@ -63,4 +63,4 @@ This will start both the React frontend (port 3000) and the Express server (port
 4.  **Retrieval:** When a question is asked, the most relevant chunks are retrieved and passed to **GPT-4o** to generate a grounded, accurate response.
 
 ## 📄 License
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
